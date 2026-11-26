@@ -120,8 +120,8 @@ Shoulder", Jupiter "The Grudge", "The Influencer").
 
 ## STATUS: BELUM SUBMIT — menunggu parent
 
-Commit final: bb942f75b5962f7c83a174334ba1a2f6e588a501. Re-check pada commit ini:
-tetap 13 pass / 1 fail (thinking_priced saja), 5 skip, 5 at submission.
+Commit final: 5ade157 (re-check pada commit ini: tetap 13 pass / 1 fail
+(thinking_priced saja), 5 skip, 5 at submission).
 
 Build selesai dan hampir semua check lolos. Submit dilakukan parent
 setelah usage rows ditempel + re-check lolos:
